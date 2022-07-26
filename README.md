@@ -1,1 +1,1 @@
-# GNN_bayesian_explanation
+# GNN bayesian explanation
